@@ -258,7 +258,7 @@
 	.content {
 		/* #ifndef APP-NVUE */
 		display: flex;
-		width: 750rpx;
+		width: 100%;
 		height: 100vh;
 		/* #endif */
 		flex-direction: column;
@@ -268,7 +268,7 @@
 
 	.bottom-back {
 		margin-top: 10px;
-		width: 750rpx;
+		width: 100%;
 		height: 44px;
 		/* #ifndef APP-NVUE */
 		display: flex;
